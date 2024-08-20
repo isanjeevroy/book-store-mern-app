@@ -61,7 +61,8 @@ To get started with the Quiz App:
      npm run dev
      ```
 7. **Access the application:**
-   - Open your browser and navigate to `http://localhost:5174`.
+   -Backend Server: Open your browser and navigate to `http://localhost:8080`.
+   -Frontend: Open your browser and navigate to `http://localhost:5174`.
 
 ## Contributing
 
